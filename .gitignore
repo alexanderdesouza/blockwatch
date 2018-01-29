@@ -1,0 +1,7 @@
+# Ignore Dirs
+.vscode
+crypto
+
+# Ignore Files
+*/.DS_Store
+
